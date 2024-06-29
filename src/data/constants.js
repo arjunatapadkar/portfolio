@@ -189,7 +189,15 @@ export const experiences = [
     company: "Zensar Technologies",
     date: "Sept 2021 - Jun 2022",
     desc: "Selected for the Employability Skill Development program, where I gained hands-on experience in Python, SQL, and manual testing. Enhanced my aptitude and analytical skills, along with developing essential soft skills for professional growth.",
-
+    skills: [
+      "Python",
+      "Manual Testing",
+     
+      "SQL",
+      "Aptitude",
+      "Soft Skills",
+  
+    ],
   },
   
 
