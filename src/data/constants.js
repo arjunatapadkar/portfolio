@@ -353,7 +353,7 @@ export const projects = [
     title: "Discord Clone",
     date: "Apr 2023",
     description: "The Discord clone is a clone of landing page of Official Discord website built to practice Tailwind CSS.",
-    image: "https://ideogram.ai/assets/progressive-image/balanced/response/iXiwVb9XSjegNDDe8_TKSQ". 
+    image: "https://ideogram.ai/assets/progressive-image/balanced/response/iXiwVb9XSjegNDDe8_TKSQ", 
       tags: [ "Tailwind CSS", "HTML", "CSS", ],
     category: "web app",
     github: "https://github.com/arjunatapadkar/discord-clone",
