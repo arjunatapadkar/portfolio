@@ -285,7 +285,7 @@ export const projects = [
     title: "Calculator",
     date: "Oct 2023",
     description: "The calculator is a web based application, build to used for the basic mathematical calculations.",
-    image: "https://github.com/arjunatapadkar/zepto-FE1/assets/99797400/185256d5-fdeb-43a8-b347-f27a0f845859",
+    image: "https://ideogram.ai/assets/progressive-image/balanced/response/_1ixw8qdQt2o2FJtQ2LbRQ",
     tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
     github: "https://github.com/arjunatapadkar/CODSOFT-calculator",
