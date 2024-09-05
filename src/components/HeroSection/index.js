@@ -1,7 +1,7 @@
 import React from 'react'
 import HeroBgAnimation from '../HeroBgAnimation'
 import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, HeroInnerContainer, TextLoop, Title, Span, SubTitle,SocialMediaIcons,SocialMediaIcon, ResumeButton } from './HeroStyle'
-const HeroImg = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8WRmWvdrUJIPO7yLp1mm1usLVSlh4_IFHQ&s'
+// const HeroImg = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8WRmWvdrUJIPO7yLp1mm1usLVSlh4_IFHQ&s'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
 
@@ -33,7 +33,7 @@ const HeroSection = () => {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src={HeroImg} alt="hero-image" />
+                        <Img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8WRmWvdrUJIPO7yLp1mm1usLVSlh4_IFHQ&s" alt="hero-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
