@@ -297,7 +297,7 @@ export const projects = [
     title: "Tourism",
     date: "Jan 2024",
     description: "The Tourism is a web based application, this is a landing page build for a travel agency using React.js",
-    image: "https://private-user-images.githubusercontent.com/99797400/344387111-4b4becbb-9df1-4d1f-80ac-2b6327f79fb8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk2NjAxOTksIm5iZiI6MTcxOTY1OTg5OSwicGF0aCI6Ii85OTc5NzQwMC8zNDQzODcxMTEtNGI0YmVjYmItOWRmMS00ZDFmLTgwYWMtMmI2MzI3Zjc5ZmI4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI5VDExMTgxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzNDQzYjk2N2Q4YjdlNjhhMDViMmRhMWQ2OGUwNTZiN2IzNjk1NTgyOWZhYjJjMDM3OGU0ODExYzQyYTI3OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.kU03iSmdVbH2UO2Y55xnX0qQq2Fvi9R6QZz3hUDUrMg",
+    image:"https://ideogram.ai/assets/progressive-image/balanced/response/EQ8M4kCcTsCRigSoFvM_ng",
     tags: ["React.js", "Tailwind CSS", "HTML", "CSS", "Javascript" ],
     category: "web app",
     github: "https://github.com/arjunatapadkar/tourism",
