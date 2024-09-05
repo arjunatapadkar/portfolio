@@ -37,7 +37,7 @@ const HeroSection = () => {
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
-            </HeroContainer>
+            </HeroContainer> 
         </div>
     )
 }
