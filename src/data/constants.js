@@ -252,8 +252,7 @@ export const projects = [
     date: "Jun 2024",
     description:
       "React web based transcription & translation app that uses web workers to run ML models in the browser",
-    image:
-      "https://private-user-images.githubusercontent.com/99797400/342592049-b8ff8000-bc9f-4511-b956-d69062b40f75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkyOTM2NDUsIm5iZiI6MTcxOTI5MzM0NSwicGF0aCI6Ii85OTc5NzQwMC8zNDI1OTIwNDktYjhmZjgwMDAtYmM5Zi00NTExLWI5NTYtZDY5MDYyYjQwZjc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI1VDA1MjkwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE5MjhkMjRhN2Q0MmNjMmMyNmU3Y2FlMzVmNDllY2RiMDY2OTAyNjg3ZDYyYWVjMTE4MjEyZDU2NmQ4OWYyNjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Z6grZ3lihgnt5P83y76c7BiUGj-4K_ycZODAU916xTk",
+    image:"https://ideogram.ai/assets/progressive-image/balanced/response/wgxSBUL9RRWBNg6ey2nY4A",
     tags: ["React Js", "Tailwind CSS", "ML Models"],
     category: "web app",
     github: "https://github.com/arjunatapadkar/free-scribe",
