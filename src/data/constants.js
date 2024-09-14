@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/arjunatapadkar",
-  resume:"https://drive.google.com/file/d/11v2ltMojXI4DkFstPTAcv3mVCP-r2j-o/view?usp=drivesdk ",
+  resume:"https://drive.google.com/file/d/1klHwDb-UUHMn1QbRv3rICYZx1FdcqScc/view?usp=drive_link ",
   linkedin: "https://www.linkedin.com/in/arjunatapadkar",
   twitter: "https://twitter.com/atp_arjun",
   insta: "https://www.instagram.com/arjun.atp",
