@@ -124,6 +124,7 @@ export const skills = [
 ];
 
 export const experiences = [
+  
   {
     id: 0,
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpXFkM6OLkGL2A33dpKVBjSKSq9b9wO1FXGg&s",
@@ -234,6 +235,21 @@ export const education = [
 ];
 
 export const projects = [
+
+  {
+
+    id: 22,
+    title: "Codeteria",
+    date: "Aug 2024",
+    description : "Developed Codeteria using MERN stack, Tailwind CSS, and Framer Motion, enhancing user engagement with an AI chatbot and theme switching. Designed and deployed 15 web pages and 28 API endpoints, facilitating dynamic content management and user interactions. Gained 3 Product Hunt badges and 9 upvotes, showcasing successful deployment and user interest.",
+    image: "https://ideogram.ai/api/images/direct/m270g4cWRyifeeHKv_njbg.jpg",
+    tags: ["Reactjs", "Nodejs", "Expressjs", "MongoDB", "Tailwind CSS", "Framer Motion", "AI", "Chatbots"],
+    category: "web app",
+    github: "https://github.com/arjunatapadkar/codeteria",
+    webapp: "http://codeteria.vercel.app/"
+    
+  },
+  
   {
     id: 0,
     title: "E-commerce",
